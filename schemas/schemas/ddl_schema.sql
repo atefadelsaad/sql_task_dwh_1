@@ -6,3 +6,5 @@ CREATE SCHEMA gold
 GO
 --sss
 --dfgdf
+adsfadsf
+asdf
